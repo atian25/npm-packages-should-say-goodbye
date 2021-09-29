@@ -1,0 +1,15 @@
+{
+  "name": "npm-packages-should-say-goodbye",
+  "description": "To those npm packages, thanks for accompanying us so long. farewell~ ",
+  "private": true,
+  "homepage": "https://github.com/atian25/npm-packages-should-say-goodbye",
+  "repository": "git@github.com:atian25/npm-packages-should-say-goodbye.git",
+  "author": "TZ <atian25@qq.com> https://github.com/atian25",
+  "scripts": {
+    "lint": "eslint . --fix"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0"
+  },
+  "license": "MIT"
+}
